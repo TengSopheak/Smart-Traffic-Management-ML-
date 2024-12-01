@@ -1,0 +1,4 @@
+Cars: 7
+Motorcycles: 7
+Buses: 0
+Trucks: 0
